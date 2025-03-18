@@ -74,6 +74,11 @@ public class GameController : MonoBehaviour
 
     public bool facil;
 
+    //Audio
+    public AudioSource audioSource;
+    public AudioClip victoria;
+    public AudioClip derrota;
+
     
     
     
